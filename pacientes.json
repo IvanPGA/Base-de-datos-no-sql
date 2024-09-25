@@ -1,0 +1,28 @@
+[
+  {
+    "_id": {
+      "$oid": "65f896bd84ecfc6299af7920"
+    },
+    "id_Paciente": 1,
+    "Nombre": "Fido",
+    "Especie": "Perro",
+    "Edad": 4,
+    "Dueño": {
+      "Nombre": "Juan Pérez",
+      "Telefono": "1234-5678"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65f896bd84ecfc6299af7921"
+    },
+    "id_Paciente": 2,
+    "Nombre": "Michi",
+    "Especie": "Gato",
+    "Edad": 2,
+    "Dueño": {
+      "Nombre": "María García",
+      "Telefono": "8765-4321"
+    }
+  }
+]

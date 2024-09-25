@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "65f896bd84ecfc6299af7922"
+    },
+    "id_Empleado": 1,
+    "Nombre": "Ana Gómez",
+    "Edad": 35,
+    "Especialidad": "Veterinaria General"
+  },
+  {
+    "_id": {
+      "$oid": "65f896bd84ecfc6299af7923"
+    },
+    "id_Empleado": 2,
+    "Nombre": "Carlos Mendoza",
+    "Edad": 40,
+    "Especialidad": "Cirugía Veterinaria"
+  }
+]
